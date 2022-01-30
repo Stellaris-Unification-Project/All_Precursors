@@ -4,5 +4,5 @@ tags={
 	"Events"
 }
 name="All Precursors"
-supported_version="3.2.*"
+supported_version="3.2.2"
 remote_file_id="914207412"
